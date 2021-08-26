@@ -1,5 +1,5 @@
-build/  
-build.gradle  
+build/
+build.gradle
 gradle/
 gradlew*
 gradlew.bat
